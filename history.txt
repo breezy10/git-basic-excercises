@@ -1,0 +1,272 @@
+    1  pwd
+    2  cd /dcouments
+    3  cd /Documents
+    4  4ls
+    5  ls
+    6  cd /Documents
+    7  mkdi /Documents/Projects
+    8  mkdir /Documents/Projects
+    9  mkdir /c/Projects
+   10  cd /c/Projects
+   11  pytrhon -m venv venv
+   12  python -m venv tvet
+   13  cd /tvet
+   14  cd
+   15  cd ..
+   16  cd /c/Project
+   17  cd .
+   18  cd 
+   19  cd /c/Project
+   20  cd /c/Projects
+   21  ls
+   22  cd /c/Projects/tvet
+   23  ls
+   24  clear
+   25  source venv/Scripts/activate
+   26  ls
+   27  cd /c/Projects
+   28  source venv/Scripts/activate
+   29  source tvt/Scripts/activate
+   30  cd /c/Projects/tvet
+   31  source tvt/Scripts/activate
+   32  source tvet/Scripts/activate
+   33  cd /c/Projects
+   34  source tvet/Scripts/activate
+   35  clear
+   36  pip freeze
+   37  pip install django
+   38  django-admin.py startproject TVET
+   39  python manage.py runserver
+   40  ls
+   41  django-admin.py startproject site
+   42  django-admin.py startproject tvetcap
+   43  django-admin.py startproject tvetcap
+   44  python manage.py runserver
+   45  cd /c/Projects/tvet/tvetcap
+   46  ls
+   47  cd /tvetcap
+   48  cd /c/Projects/tvet
+   49  ls
+   50  cd /tvetcap
+   51  cd /projects
+   52  cd /Projects
+   53  cd /c/Projects
+   54  cd /tvetcap
+   55  ls
+   56  cd tvetcap/
+   57  ls
+   58  ls
+   59  manage.py runserver
+   60  python manage.py runserver
+   61  cd/c/Projects
+   62  cd /c/Projects
+   63  cd tevt/
+   64  cd tvet
+   65  ls
+   66  source tvet/Scripts/activate
+   67  cd..
+   68  cd 
+   69  clear
+   70  cd /c/Projects
+   71  source tvet/Scripts/activate
+   72  cd tvetcap/
+   73  python manage.py runserver
+   74  cd /c/Projects
+   75  source tvet/Scripts/activate
+   76  cd tvetcap/
+   77  python manage.py runserver
+   78  cd /c/Projects
+   79  source tvet/Scripts/activate
+   80  python manage.py runserver
+   81  python manage.py runserver
+   82  cd tvetcap/
+   83  python manage.py runserver
+   84  python manage.py runserver
+   85  cd /c/Projects
+   86  source tvet/Scripts/activate
+   87  cd tvetcap/
+   88  python manage.py runserver
+   89  python manage.py runserver
+   90  python manage.py runserver
+   91  python manage.py runserver
+   92  cd /c/Projects+
+   93  source tvet/Scripts/activate
+   94  cd /c/Projects
+   95  source tvet/Scripts/activate
+   96  cd tvetcap/
+   97  cd /documents
+   98  cd /~documents
+   99  ls
+  100  cd My Documents
+  101  cd /My Documents
+  102  cd C:\Users\brianm\Documents\School\Data_Engineering
+  103  cd
+  104  cd /root/
+  105  cd /Users
+  106  pwd
+  107  cd /Documents
+  108  get init
+  109  ls
+  110  cd ?
+  111  pwd
+  112  cd /c/Users/brianm
+  113  cd /c/Users/brianm/Documents
+  114  ls
+  115  cd /c/Users/brianm/Documents/School
+  116  ls
+  117  cd /c/Users/brianm/Documents/School/Data_Egineering
+  118  cd /c/Users/brianm/Documents/School/Data_Engineering
+  119  mkdir git-basic-exercises
+  120  cd /c/Users/brianm/Documents/School/Data_Engineering/git-basic-exercises
+  121  ls
+  122  git init
+  123  ls
+  124  ls -a
+  125  git status
+  126  touch README.md
+  127  ls -a
+  128  git status
+  129  git log
+  130  git add README.md
+  131  git status
+  132  git commit -m "initial commit"
+  133  git log
+  134  nano README.md
+  135  cat README.md
+  136  second commit
+  137  git commit -m "second commit"
+  138  nano README.md
+  139  cat README.md
+  140  git commit -m"third commit"
+  141  git log
+  142  git commit -a"third commit"
+  143  cat README.md
+  144  git status
+  145  git add README.md
+  146  commit -m "second commit"
+  147  gitcommit -m "second commit"
+  148  git commit -m "second commit"
+  149  nano README.md
+  150  cat README.md
+  151  git status
+  152  git add README.md 
+  153  git commit -m"third commit"
+  154  git log
+  155  q
+  156  git checkout
+  157  cat README.md
+  158  git checkout main
+  159  git checkout 155c7ede19b7c6836df3267a98bcb8ff4c482321
+  160  cat README.md
+  161  git checkout main
+  162  git checkout aster
+  163  git checkout master
+  164  cat README.md
+  165  git branch
+  166  git mk branch milkshake-flavours
+  167  git --help
+  168  git branch create milkshake-flavours
+  169  git branch milkshake-flavours
+  170  git branch
+  171  git checkout master
+  172  git checkout milkshake-flavours
+  173  git branch
+  174  nano milkshakes.md
+  175  git status
+  176  git add milkshakes.md
+  177  git commit -m"added initial flavours"
+  178  git checkout master
+  179  git branch history
+  180  git branch
+  181  git checkout history
+  182  git log
+  183  history > history.txt
+  184  git add history.txt
+  185  git commit -m "1st commit"
+  186  git reset
+  187  git log
+  188  git status
+  189  history > history.txt
+  190  git status
+  191  git add history.txt
+  192  git commit -m "added history"
+  193  git log
+  194  git checkout milkshake
+  195  git checkout milkshakes
+  196  git branch
+  197  git checkout milkshake-flavours
+  198  git log
+  199  checkout master
+  200  nano README.md
+  201  git checkout master
+  202  nano README.md
+  203  git status
+  204  git add README.md
+  205  git commit -m"random readme changes"
+  206  git checkout history
+  207  cat README.md
+  208  rm README.md
+  209  echo "booya" > README.md
+  210  git add README.md
+  211  git commit -m"rewrote readme"
+  212  checkout master
+  213  git checkout master
+  214  ls
+  215  git log
+  216  git merge milkshake-flavours
+  217  git merge history
+  218  q
+  219  :q
+  220  cd
+  221  cd ~/Documents/School/Data_Engineering/git-basic-exercises
+  222  cd
+  223  cd /c/Users/Brianm/Documnts
+  224  cd /C/Users/brianm/Documents/School/Data_Engineering
+  225  mkdir git-basic-axcercises
+  226  cd /C/Users/brianm/Documents/School/Data_Engineering/git-basic-excercises
+  227  rm dir git-basic-axcersises
+  228  rm git-basic-axcersises
+  229  rmdir git-basic-axcersises
+  230  cd /C/Users/brianm/Documents/School/Data_Engineering/git-basic-excercises
+  231  git init
+  232  ls
+  233  ls -a
+  234  git status
+  235  touch README.md
+  236  git status
+  237  git add README.md
+  238  git status
+  239  git commit -m"initial commit"
+  240  git log
+  241  nano README.md
+  242  cat README.md
+  243  git status
+  244  git add README.md
+  245  git commit -m"second commit"
+  246  nano README.md
+  247  git add README.md
+  248  git commit -m"third commit"
+  249  git log
+  250  git checkout f51ae6e2669ab663631978a65e8c622cffa84487
+  251  cat README.md
+  252  git checkout master
+  253  cat README.md
+  254  git branch
+  255  git branch milkshake-flavours
+  256  git branch milkshake-flavours
+  257  checkout milshake-flavours
+  258  gitcheckout milshake-flavours
+  259  git checkout milshake-flavours
+  260  git checkout milskshake-flavours
+  261  git checkout milkshake-flavours
+  262  nano milkshakes.md
+  263  git status
+  264  git add milkshakes.md
+  265  git commit -m"added initial flavours"
+  266  git log
+  267  git checkout master
+  268  git status
+  269  git branch history
+  270  git branch
+  271  git log
+  272  history > history.txt
